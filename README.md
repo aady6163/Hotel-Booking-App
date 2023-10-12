@@ -1,2 +1,5 @@
 # Hotel-Booking-App
-I developed hotel booking website using Python Django framework 
+
+This is a zip file you have unzip it to see the project.\
+
+Your computer must have installed all the files or libraries mentioned in requirements.txt
